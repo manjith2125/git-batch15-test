@@ -1,9 +1,9 @@
 package com.test;
 
-public class Test1 {
-	
+public class test3 {
 	public static void main(String[] args) {
-		System.out.println("Test1 class... VSM");
 		
+		 System.out.println("Test 3...Manjith");
 	}
+
 }
